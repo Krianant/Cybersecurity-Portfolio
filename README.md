@@ -29,7 +29,7 @@ I am passionate about protecting organisations through proactive threat detectio
 - Frameworks: CIA triad, NIST CSF, MITRE ATT&CK (in progress)
 
 ## Contact
-- 📧 Email: ananthakrishnan2933@gmail.com)
+- 📧 Email: ananthakrishnan2933@gmail.com
 - 🔗 LinkedIn: www.linkedin.com/in/anantha-krishnan-ks
 - 🌐 TryHackMe: https://tryhackme.com/p/Krianant
 
