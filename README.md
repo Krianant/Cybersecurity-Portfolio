@@ -19,7 +19,7 @@ I am passionate about protecting organisations through proactive threat detectio
 
 ## Key Hands-On Labs & Projects
 <!--- TryHackMe: **DNS in Detail**, **HTTP in Detail**, OSI model, packet analysis-->
-- Google IT SUpport: Network Administration, IT Security Architecture, Technical Support,bNetwork Troubleshooting, Computer Networking
+- Google IT Support: Network Administration, IT Security Architecture, Technical Support,Network Troubleshooting, Computer Networking
 - GitHub documentation of every lab and notes
 
 ## Technical Skills (Building)
